@@ -8,4 +8,4 @@
 下载了美剧后，很多字幕网站的文件名跟剧集视频文件不匹配，需要一个个手动改。<br>
 改了几次后烦了，写了这个小工具用来给字幕文件改名，自动将字幕文件名改为与视频文件像匹配，字幕格式支持srt和ass。<br>
 - 示例视频文件名：Breaking Bad S04E01 Box Cutter (2160p x265 10bit Joy).mkv<br>
-- 示例字幕文件名:Breaking Bad S04E01 Box Cutter.简英.ass<br>
+- 示例字幕文件名：Breaking Bad S04E01 Box Cutter.简英.ass<br>
