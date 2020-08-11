@@ -1,4 +1,4 @@
-#rename.py
+#rename_sub.py
 import os
 import re
 import time
